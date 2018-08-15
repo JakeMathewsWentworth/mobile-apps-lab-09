@@ -1,0 +1,31 @@
+1) Do you have any changes to you paper prototype?
+	There should be a directions button that will open up your default mapping 
+	application to take you to the selected location.
+
+	The filters is the slide out should be labeled more clearly.
+
+	Add more ways to close the sidebar
+		Swipe
+		Tap on map
+		Press back button (currently the only option)
+
+	Removing heat map from design.
+
+	Remove time filter because time is dependent on another filter (Distance).
+
+	Add search bar on map (Maybe just leave this to google maps)
+	We could make it so you could share a location from your mapping service to ours
+	and we would use that data to populate our map.
+
+2) Status update of the final project
+	Front end is app is moving along as expected.
+
+	Backend work is very behind. Need Firebase database to store location ratings
+	per demographic.
+
+3) What difficulties do you have?
+	Getting the Google maps view to display properly inside our app.
+	
+	
+
+git commit -m "Moved request logic out of TargetCard and added TargetCategory drawer"
